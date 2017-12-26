@@ -1,0 +1,114 @@
+body{
+	brder: 1px solid blue;
+}
+.page{
+	width: 780px;
+	margin: auto;
+	font-family: verdana, sans-serif;
+	font-size: 16px; 
+	border: 3px solid #acac9d;
+	padding: 10px;
+	border-radius: 15px;
+	box-shadow: 2px 2px 5px #ccc;
+
+}
+.infophoto{
+	height: 200px;
+	brder: 1px solid blue;
+	border: 5px solid #26c9ff;
+	border-radius: 20px;
+}
+.info{
+	float: left;
+	padding-left: 20px;
+	padding-top: 10px;
+	line-height: 15px;
+}
+.photo{
+	float: right;
+	margin-right: 20px;
+}
+strong{
+	font-size: 25px;
+}
+.sec-gauche{
+	float: left;
+}
+.sec-droite{
+	osition: relative;
+	eft: 50px;
+	margin-left: 150px;
+}
+#divers{
+	margin-left: 50px;
+	list-style-type: ;
+}
+#divers li{
+	list-style-type: square;
+}
+span{
+	font-weight: bold;
+}
+.section{
+	brder: 1px solid blue;
+	margin-bottom: 30px;
+}
+h2{
+	text-transform: uppercase;
+	font-size: 22px;
+	background-color: #26c9ff;
+	border: 1px solid #0f0;
+	border-radius: 5px;
+	height: 30px;
+}
+#email{
+	color: blue;
+}
+.sec-gauche #prof1{
+	line-height: 45px;
+	position: relative;
+	bottom: 30px;
+}
+.sec-gauche #prof2{
+	line-height: 45px;
+}
+.sec-gauche #inf1{
+	position: relative;
+	bottom: 15px;
+}
+.sec-gauche #inf2{
+	position: relative;
+	bottom: 18px;
+}
+.sec-gauche #inf3{
+	position: relative;
+	bottom: 18px;
+}
+.sec-gauche #inf4{
+	position: relative;
+	bottom: -3px;
+}
+.sec-gauche #ane{
+	position: relative;
+	bottom: 17px;
+	line-height: 25x;
+}
+.section:hover{
+	background-color: #acac9d;
+	color: #fff;
+}
+.sec-gauche:hover{
+	font-style: italic;
+}
+h2:hover{
+	text-align: center;
+	color: red;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+
